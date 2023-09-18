@@ -1,0 +1,15 @@
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HomeWork\HW9(end)\hw(66)\bin\Debug\net6.0\hw(66).exe
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HomeWork\HW9(end)\hw(66)\bin\Debug\net6.0\hw(66).deps.json
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HomeWork\HW9(end)\hw(66)\bin\Debug\net6.0\hw(66).runtimeconfig.json
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HomeWork\HW9(end)\hw(66)\bin\Debug\net6.0\hw(66).dll
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HomeWork\HW9(end)\hw(66)\bin\Debug\net6.0\hw(66).pdb
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HomeWork\HW9(end)\hw(66)\obj\Debug\net6.0\hw(66).csproj.AssemblyReference.cache
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HomeWork\HW9(end)\hw(66)\obj\Debug\net6.0\hw(66).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HomeWork\HW9(end)\hw(66)\obj\Debug\net6.0\hw(66).AssemblyInfoInputs.cache
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HomeWork\HW9(end)\hw(66)\obj\Debug\net6.0\hw(66).AssemblyInfo.cs
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HomeWork\HW9(end)\hw(66)\obj\Debug\net6.0\hw(66).csproj.CoreCompileInputs.cache
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HomeWork\HW9(end)\hw(66)\obj\Debug\net6.0\hw(66).dll
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HomeWork\HW9(end)\hw(66)\obj\Debug\net6.0\refint\hw(66).dll
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HomeWork\HW9(end)\hw(66)\obj\Debug\net6.0\hw(66).pdb
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HomeWork\HW9(end)\hw(66)\obj\Debug\net6.0\hw(66).genruntimeconfig.cache
+C:\Users\Rassamaha\Desktop\GeekBrains\C#\HW\HomeWork\HW9(end)\hw(66)\obj\Debug\net6.0\ref\hw(66).dll
